@@ -28,7 +28,7 @@ The program is divided into 3 logical parts:
 
 **The first** part is solved using convolutional neural networks. One network learns to create fake images, and the other learns to distinguish fake images from real ones, due to which the overall quality of the model increases. **The second** part is the model learning pipeline, which learns using the loss function nn.BCELoss(). To ensure the reproducibility of the solution, initialization with the initial values of both the generator model and the discriminator model is used. **The third** part is logging the canvas of the reproduced images of the generator in the process of training the model and creating animation.
 
-Для того, чтобы запустить проект, необходимо:
+In order to launch a project, you need to:
 1. Clone repository
 ```bash
 git clone https://github.com/Samirml/FaceGeneration
@@ -53,8 +53,6 @@ pip install -r requirements.txt
 ```bash
 python generate_faces.py
 ```
-
-
 
 ## License
 The idea of the project was taken from Karpov.Courses (https://karpov.courses/deep-learning?_gl=1*gvc6ll*_ga*NDI1MzY4NTU3LjE3MjM5NzU4OTE.*_ga_DZP7KEXCQQ*MTcyNTg3MzAyNi4xMTYuMC4xNzI1ODczMDI2LjYwLjAuMA..).
