@@ -54,7 +54,11 @@ First, you need to upload all the images from (*) to the data folder, and then l
 ```bash
 python generate_faces.py
 ```
+You will get these sets of images:
 ![](https://github.com/user-attachments/assets/bcadc578-0229-4e39-88f6-66e09d05be04)
+![](https://github.com/user-attachments/assets/024f216e-1f40-4d66-a63f-25d134591832)
+![](https://github.com/user-attachments/assets/089c7862-0f7f-4ffb-ba02-a7bccffadcc7)
+
 
 ## License
 The idea of the project was taken from Karpov.Courses (https://karpov.courses/deep-learning?_gl=1*gvc6ll*_ga*NDI1MzY4NTU3LjE3MjM5NzU4OTE.*_ga_DZP7KEXCQQ*MTcyNTg3MzAyNi4xMTYuMC4xNzI1ODczMDI2LjYwLjAuMA..).
