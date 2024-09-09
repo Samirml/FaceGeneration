@@ -50,6 +50,7 @@ env\Scripts\activate
 pip install -r requirements.txt
 ```
 4.Project Launch (to train and generate images)
+First, you need to upload all the images from (*) to the data folder, and then launch it:
 ```bash
 python generate_faces.py
 ```
