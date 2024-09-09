@@ -1,8 +1,7 @@
 # System of generating new faces
-![](https://github.com/user-attachments/assets/aa1db844-3fd3-49ca-a563-714990ada681)
 
 
-#**Description**
+##**Description**
 This project implements a generative adversarial network (GAN) to create realistic images of faces. GAN consists of two neural networks — a generator and a discriminator, which are trained together to generate images that are difficult to distinguish from real ones. 
 The Celeba dataset was used in this project (https://www.kaggle.com/datasets/jessicali9530/celeba-dataset ). 
 The project implements the ability to track the progress of model learning in dynamics using the example of an image canvas using animated output to the browser.
