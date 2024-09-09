@@ -55,6 +55,9 @@ First, you need to upload all the images from (*) to the data folder, and then l
 python generate_faces.py
 ```
 You will get these sets of images:
+
+
+
 ![](https://github.com/user-attachments/assets/bcadc578-0229-4e39-88f6-66e09d05be04)
 
 
