@@ -57,7 +57,7 @@ python generate_faces.py
 ## License
 The idea of the project was taken from Karpov.Courses (https://karpov.courses/deep-learning?_gl=1*gvc6ll*_ga*NDI1MzY4NTU3LjE3MjM5NzU4OTE.*_ga_DZP7KEXCQQ*MTcyNTg3MzAyNi4xMTYuMC4xNzI1ODczMDI2LjYwLjAuMA..).
 
-## Авторы и контакты
+## Authors and contacts
 To contact the author, write to the following email: samiralzgulfx@gmail.com
 
 
