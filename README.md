@@ -3,7 +3,7 @@
 
 ## Description
 This project implements a generative adversarial network (GAN) to create realistic images of faces. GAN consists of two neural networks — a generator and a discriminator, which are trained together to generate images that are difficult to distinguish from real ones. 
-The Celeba dataset was used in this project (https://www.kaggle.com/datasets/jessicali9530/celeba-dataset ). 
+The Celeba* dataset was used in this project (https://www.kaggle.com/datasets/jessicali9530/celeba-dataset). 
 The project implements the ability to track the progress of model learning in dynamics using the example of an image canvas using animated output to the browser.
 The project was developed and supplemented as part of a large project within the framework of image generation research.
 
@@ -50,6 +50,7 @@ env\Scripts\activate
 pip install -r requirements.txt
 ```
 4.Project Launch (to train and generate images)
+First, you need to upload all the images from (*) to the data folder, and then launch it:
 ```bash
 python generate_faces.py
 ```
